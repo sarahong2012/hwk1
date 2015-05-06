@@ -1,0 +1,100 @@
+body {
+	background: #ffffff;
+	color: #333333;
+	font-family: georgia, serif;
+	padding: 70px;
+	margin: 70px;
+	border: 1px solid #ccc;
+}
+
+h1 {
+	font-family: didot, georgia, serif;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+	margin: 30px 0;
+	font-weight: normal;
+}
+
+nav ul {
+	text-align: center;
+	padding: 0;
+}
+
+nav li {
+	display: inline;
+	margin: 0 10px;
+	font-family: garamond, georgia, serif;
+	font-style: bold;
+}
+
+
+a {
+	color: #dd006e;
+}
+
+hr {
+	margin: 40px;
+	border: 1px solid #ccc;
+}
+
+h2 {
+	font-family: helvetica, arial, sans-serif;
+}
+
+h3 {
+font-family: helvetica, arial, sans-serif;
+font-size: 14px;
+font-style: none;
+text-align: center;
+}
+
+h4 {
+font-family: georgia, serif;
+font-size: 12px;
+font-style: normal;
+text-align: left;
+}
+
+p {
+	line-height: 1.6;
+}
+
+img {
+	float: right;
+	margin-left: 10px;
+	padding: 2px;
+	border: 1px solid#ccc;
+}
+
+ul {
+	text-align: left;
+	padding: 0;
+	list-style-type: 
+}
+
+li {
+	padding: 4px 0px;
+	font-family: helvetica, arial, sans-serif;
+	line-height: 1.5;
+	font-weight: normal;
+	list-style: square;
+}
+
+span {
+	font-weight: bold;
+}
+
+}
+
+input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+}
+
+input[type="submit"] {
+      font-family: futura;
+      background: white;
+      color: black;
+}
